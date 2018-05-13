@@ -5,6 +5,8 @@
 * gilete
 * abacate
 * beterraba
+* carvão
+* cerveja
 
 ## Comprado
 * cenoura
