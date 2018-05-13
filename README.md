@@ -7,4 +7,6 @@
 * beterraba
 * carvão
 * cerveja
-
+* linguiça
+* picanha
+* carvão
