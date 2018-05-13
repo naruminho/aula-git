@@ -9,3 +9,6 @@
 * picanha
 * carvão
 * alcool gel
+* sabão em pó
+* detergente
+* cloro
