@@ -6,3 +6,5 @@
 * espinafre
 * faca
 * gilete
+* abacate
+* beterraba
