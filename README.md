@@ -4,3 +4,6 @@
 * picanha
 * linguiça
 * carvão
+* sabão em pó
+* detergente
+* cloro
