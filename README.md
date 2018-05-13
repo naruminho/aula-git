@@ -5,4 +5,6 @@
 * gilete
 * abacate
 * beterraba
-
+* sabão em pó
+* detergente
+* cloro
