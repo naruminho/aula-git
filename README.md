@@ -8,3 +8,5 @@
 * gilete
 * abacate
 * beterraba
+* carvão
+* cerveja
