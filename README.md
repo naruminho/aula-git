@@ -1,11 +1,13 @@
 # Lista de compras
 ## Comprar
 
-* arroz
-* batata
 * cenoura
 * dado
 * espinafre
 * faca
 * gilete
+
+## Comprado
+* arroz
+* batata
 
