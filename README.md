@@ -8,7 +8,3 @@
 * carvão
 * cerveja
 
-## Comprado
-* cenoura
-* dado
-* espinafre
