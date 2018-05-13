@@ -1,14 +1,6 @@
 # Lista de compras
 
 ## Comprar
-* faca
-* gilete
-* abacate
-* beterraba
-* linguiça
 * picanha
+* linguiça
 * carvão
-* alcool gel
-* sabão em pó
-* detergente
-* cloro
