@@ -5,8 +5,4 @@
 * gilete
 * abacate
 * beterraba
-* carvão
-* cerveja
-* linguiça
-* picanha
-* carvão
+
