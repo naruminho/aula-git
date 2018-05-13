@@ -6,8 +6,3 @@
 * espinafre
 * faca
 * gilete
-
-## Comprado
-* arroz
-* batata
-
