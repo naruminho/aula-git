@@ -5,6 +5,10 @@
 * gilete
 * abacate
 * beterraba
+* linguiça
+* picanha
+* carvão
+* alcool gel
 * sabão em pó
 * detergente
 * cloro
