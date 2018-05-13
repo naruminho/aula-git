@@ -6,3 +6,6 @@
 * cenoura
 * dado
 * espinafre
+* faca
+* gilete
+
